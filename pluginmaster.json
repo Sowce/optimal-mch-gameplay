@@ -1,0 +1,38 @@
+[
+    {
+        "Author": "that one french guy GULP, obligatory Xenosys Vex",
+        "Name": "OptimalMCHGameplay",
+        "Punchline": "MODS crash his game",
+        "Description": "MODS crash his game",
+        "Changelog": "Fixed for 7.3 (Thanks to Zeffuro)",
+        "InternalName": "OptimalMCHGameplay",
+        "AssemblyVersion": "0.0.0.1",
+        "RepoUrl": "https://github.com/Sowce/optimal-mch-gameplay",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "drill",
+            "drill",
+            "drill",
+            "drill",
+            "drill",
+            "drill",
+            "drill",
+            "drill",
+            "drill",
+            "drill",
+            "drill",
+            "drill",
+            "drill"
+        ],
+        "DalamudApiLevel": 13,
+        "IconUrl": "",
+        "ImageUrls": [""],
+        "DownloadLinkInstall": "https://github.com/Sowce/optimal-mch-gameplay/releases/download/0.0.0.1/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Sowce/optimal-mch-gameplay/releases/download/0.0.0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Sowce/optimal-mch-gameplay/releases/download/0.0.0.1/latest.zip",
+        "DownloadCount": 69420,
+        "LastUpdate": "1762543937"
+    }
+]
